@@ -11,7 +11,12 @@ Responsive, email-like HTML template for Stellmann commercial proposals. Built w
 
 ## Usage
 Open `index.html` in any browser or embed the template into your CRM/email system. Update text and images as needed.
+This template is optimized for direct integration with:
 
+- Zoho Writer
+- CRM platforms
+- Email campaigns
+- PDF generation tools
 ## Preview
 ![Template Preview](preview.png)
 
